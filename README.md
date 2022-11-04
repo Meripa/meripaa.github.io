@@ -29,5 +29,8 @@
 
 <p>Tänane ilm on olnud üsna sombune ning kohati esineb ka udu. Esineb ka sademeid mis võivad tekitada asfaldile vee katte. See juures soovitan olla autojuhtidel väga tähele panelik, et ei lõpetaks tänast päeva kraavis.</p>
 
+<p>Lõpetuseks, et seda ise õppida, vaadake kindlasti taltechi kodulehekülge!:</p>
+<a href="https://taltech.ee/">Vajuta siia!</a> 
+  
 </body>
 </html>
