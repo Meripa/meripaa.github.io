@@ -23,7 +23,7 @@
 
 <hr>
   
-<img src="https://files.worldwildlife.org/wwfcmsprod/images/Panda_in_Tree/hero_small/99i33zyc0l_Large_WW170579.jpg" alt="W3Schools.com" width="200" height="300">
+<img src="https://files.worldwildlife.org/wwfcmsprod/images/Panda_in_Tree/hero_small/99i33zyc0l_Large_WW170579.jpg" alt="https://www.worldwildlife.org/species/giant-panda" width="200" height="300">
 
 <h2>Räägime natuke tänasest ilmast</h2>
 
