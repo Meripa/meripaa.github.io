@@ -22,10 +22,12 @@
 </table>
 
 <hr>
+  
+<img src="https://files.worldwildlife.org/wwfcmsprod/images/Panda_in_Tree/hero_small/99i33zyc0l_Large_WW170579.jpg" alt="W3Schools.com" width="200" height="300">
 
-<img src="download_11zon.jpg" alt="W3Schools.com" width="200" height="300">
+<h2>Räägime natuke tänasest ilmast</h2>
 
-
+<p>Tänane ilm on olnud üsna sombune ning kohati esineb ka udu. Esineb ka sademeid mis võivad tekitada asfaldile vee katte. See juures soovitan olla autojuhtidel väga tähele panelik, et ei lõpetaks tänast päeva kraavis.</p>
 
 </body>
 </html>
